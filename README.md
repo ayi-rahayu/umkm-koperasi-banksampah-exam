@@ -2,6 +2,6 @@
 
 ## 📄 Lihat Jawaban Lengkap (HTML)
 
-Penjelasan setiap langkah, kode lengkap, narasi, dan contoh output dapat kamu baca di:
+Untuk Melihat jawaban silahkan klik link dibawah : 
 
 👉 **[Lihat Jawaban HTML](https://ayi-rahayu.github.io/umkm-koperasi-banksampah-exam/jawaban.html)**
